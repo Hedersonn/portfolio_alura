@@ -49,7 +49,10 @@ body {
 }
 
 .apresentacao__links__link {
-    width: 280px;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    width: 378px;
 	text-align: center;
     border-color: #22D4FD;
     border-style: solid;
